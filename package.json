@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Node application that allows users to create basic and cloze flashcards for a single-session",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitwong/Flashcard-Generator.git"
+  },
+  "author": "Whitney Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitwong/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/whitwong/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
